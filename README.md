@@ -6,8 +6,8 @@ It helps users analyze key metrics, trends, and 52-week performance insights —
 
 🧠 Features
 
-✅ Fetch live historical stock data (using yfinance)
-✅ Store and update records in SQLite database
+__✅ Fetch live historical stock data (using yfinance)
+__✅ Store and update records in SQLite database
 ✅ Calculate 7-day moving average & daily returns
 ✅ Interactive stock charts (Chart.js)
 ✅ Clean and modular FastAPI backend
