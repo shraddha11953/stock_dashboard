@@ -15,7 +15,7 @@ It helps users analyze key metrics, trends, and 52-week performance insights —
 
 ## Demo
 watch the full demo here on  [youtube] (https://youtu.be/2_BXGYa9_IU)
-you can [download the demo video here]  (Demo_video.mp4)
+- you can [download the demo video here]  (demo.mp4)
 
 
 ## Screenshots
