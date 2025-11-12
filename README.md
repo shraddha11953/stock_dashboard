@@ -13,6 +13,10 @@ It helps users analyze key metrics, trends, and 52-week performance insights —
 - ✅ Clean and modular FastAPI backend
 - ✅ Auto data refresh scheduler (optional using APScheduler)
 
+## Demo
+![Demo](Demo_video.mp4)
+
+
 ## Screenshots
 **Dashboard:**  
 ![Dashboard](app/static/images/dashboard1.png)
