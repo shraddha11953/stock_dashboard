@@ -15,7 +15,9 @@ It helps users analyze key metrics, trends, and 52-week performance insights —
 
 ## Screenshots
 **Dashboard:**  
-![Dashboard](app/static/images/Dashboard.png)
+![Dashboard](app/static/images/dashboard1.png)
+![Dashboard](app/static/images/dashboard2.png)
+
 
 🛠️ Tech Stack
 
