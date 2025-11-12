@@ -13,6 +13,10 @@ It helps users analyze key metrics, trends, and 52-week performance insights —
 ✅ Clean and modular FastAPI backend
 ✅ Auto data refresh scheduler (optional using APScheduler)
 
+## Screenshots
+**Dashboard:**  
+![Dashboard](app/static/images/Dashboard.png)
+
 🛠️ Tech Stack
 
 Backend: FastAPI, SQLAlchemy, SQLite
