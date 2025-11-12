@@ -84,8 +84,8 @@ This will automatically run fetch_and_store() daily.
 
 👩‍💻 Author
 
-Shraddha Jadhav
-💼 Python | Django | FastAPI | Data Analytics
-📧 shraddha9503@gmail.com
+- Shraddha Jadhav
+- 💼 Python | Django | FastAPI | Data Analytics
+- 📧 shraddha9503@gmail.com
 
 🌐 https://github.com/shraddha11953
