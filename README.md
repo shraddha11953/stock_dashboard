@@ -1,5 +1,5 @@
 📊 Stock Data Intelligence Dashboard
-🚀 Overview
+- 🚀 Overview
 
 A mini financial analytics platform built using FastAPI, SQLite, and yfinance, designed to automatically fetch, clean, and visualize stock market data.
 It helps users analyze key metrics, trends, and 52-week performance insights — all in one place.
@@ -10,8 +10,8 @@ It helps users analyze key metrics, trends, and 52-week performance insights —
 - ✅ Store and update records in SQLite database
 - ✅ Calculate 7-day moving average & daily returns
 - ✅ Interactive stock charts (Chart.js)
-✅ Clean and modular FastAPI backend
-✅ Auto data refresh scheduler (optional using APScheduler)
+- ✅ Clean and modular FastAPI backend
+- ✅ Auto data refresh scheduler (optional using APScheduler)
 
 ## Screenshots
 **Dashboard:**  
