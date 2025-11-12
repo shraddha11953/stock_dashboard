@@ -14,7 +14,8 @@ It helps users analyze key metrics, trends, and 52-week performance insights —
 - ✅ Auto data refresh scheduler (optional using APScheduler)
 
 ## Demo
-![Demo](Demo_video.mp4)
+watch the full demo here on  [youtube] (https://youtu.be/2_BXGYa9_IU)
+you can [download the demo video here]  (Demo_video.mp4)
 
 
 ## Screenshots
