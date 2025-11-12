@@ -1,0 +1,22 @@
+/* style.css - simple attractive layout */
+body { margin:0; font-family: "Inter", system-ui, sans-serif; background:#f4f7fb; color:#222; }
+.topbar { display:flex; justify-content:space-between; align-items:center; padding:12px 20px; background:#0f1724; color:#fff; }
+.brand { display:flex; align-items:center; gap:12px; }
+.logo { width:36px; height:36px; object-fit:contain; }
+.topbar h1 { margin:0; font-size:18px; }
+.controls { display:flex; gap:8px; align-items:center; }
+.controls select, .controls button { padding:6px 10px; border-radius:6px; border:0; }
+
+.container { display:flex; height: calc(100vh - 64px); }
+.sidebar { width:220px; padding:16px; background:#0b1220; color:#fff; overflow:auto; }
+.sidebar h2 { margin-top:0; margin-bottom:8px; font-size:16px; text-align:center; }
+#companyList { list-style:none; padding:0; margin:0; }
+#companyList li { padding:8px; margin:6px 0; background:#0f2540; border-radius:8px; cursor:pointer; text-align:center; transition:background .15s; }
+#companyList li:hover { background:#1b3b66; }
+
+.main { flex:1; padding:20px; overflow:auto; display:flex; flex-direction:column; gap:16px; }
+.card { background:#fff; border-radius:10px; padding:18px; box-shadow:0 6px 18px rgba(16,24,40,0.06); }
+.small-cards { display:flex; gap:12px; justify-content:space-between; }
+.small-cards > div { flex:1; text-align:center; padding:12px; }
+
+.compare-row { display:flex; gap:8px; align-items:center; margin-bottom:12px; }

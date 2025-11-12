@@ -1,0 +1,18 @@
+# Virtual env
+venv/
+*.pyc
+__pycache__/
+.env
+
+# SQLite DB
+*.db
+app/*.db
+app/stocks.db
+
+# IDE files
+.vscode/
+.idea/
+
+# system files
+.DS_Store
+Thumbs.db

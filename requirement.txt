@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+yfinance
+sqlalchemy
+pydantic
+scikit-learn
+python-multipart
+jinja2
+aiohttp
